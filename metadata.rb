@@ -1,4 +1,4 @@
-name             'chefdk_getting_started'
+name             'chef_problems'
 maintainer       'The Authors'
 maintainer_email 'you@example.com'
 license          'all_rights'

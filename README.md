@@ -1,4 +1,3 @@
 # chefdk_getting_started
 
-TODO: Enter the cookbook description here.
-
+This is just a Test-Cookbook to show my problems with Chef
